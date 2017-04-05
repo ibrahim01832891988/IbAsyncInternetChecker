@@ -1,4 +1,4 @@
-# IbAsyncInternetChecker
+# IbAsync-InternetChecker
  
 An Asynchronous Internet Checker library for android.when internet connection is lost or poor internet connection or internet connection is get back, this will automatically fire on registered listeners with a boolean value.Everything will be done automatically.Users just need to put their code on listener when internet available or when internet connection is lost or poor internet connection by checking the boolean value.
 
